@@ -62,7 +62,7 @@ A magnitude 7.8 earthquake struck Ecuador on April 16, 2016. People rallied in r
 ## SUMMARY
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------|:------|
-| LP 2      | Store Sales - Time Series Forecasting - Regression Project| Medium<br />LinkedIn | [Jupyter Notebook](https://github.com/elvis-darko/Training-and-Apprenticeship-Portfolio-Projects/blob/main/STORE-SALES-TIME-SERIES-FORECASTING/STORE-SALES-TIME-SERIES-FORECASTING-REGRESSION%20PROJECT.ipynb) |
+| LP 2      | Store Sales - Time Series Forecasting - Regression Project| [Medium](https://medium.com/@el.darkoel/time-series-analysis-ddcdda3ab54) | |
 
 
 
